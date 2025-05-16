@@ -8,7 +8,7 @@
 	</div>
 	<div>
 		<a
-			href="https://www.myegiving.com/App/Giving/eGiving-314983"
+			href="https://www.plantjoy.org/#givingflow"
 			class="bg-christi-600 text-gray-50 tracking-wider shadow-xl shadow-christi-300/40  py-3 px-4 lg:px-8 rounded-full"
 			>Give Now</a
 		>
