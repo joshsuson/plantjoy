@@ -22,20 +22,12 @@
 		Many ministry leaders are lonely and discouraged. We exist to bring care and attention to
 		enhance their joy in Jesus, life, and serving.
 	</p>
-	<div
-		class="mt-10 flex flex-col lg:flex-row justify-center gap-y-6 lg:gap-y-0 gap-x-6 items-center max-w-2xl mx-auto"
-	>
+	<div class="mt-10 flex justify-center">
 		<a
-			href="https://www.plantjoy.org/#givingflow"
-			class="w-full lg:w-1/2 flex items-center justify-center rounded-full py-2 px-4 text-sm focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 shadow-xl shadow-christi-300/40 bg-christi-600 text-white hover:bg-christi-400 hover:text-slate-50 active:bg-christi-500 active:text-slate-100 focus-visible:outline-christi-600"
+			href="mailto:plantjoyministries@gmail.com?subject=Schedule A Discovery Call&body=Hi Plant Joy,%0D%0A%0D%0AI would like to schedule a discovery call to learn more about how Plant Joy can support me in my ministry journey.%0D%0A%0D%0APlease let me know what times work best for you.%0D%0A%0D%0AThank you!%0D%0A%0D%0AName:%0D%0APhone:%0D%0AMinistry Role:%0D%0AChurch/Organization:"
+			class="bg-christi-600 text-gray-50 tracking-wider shadow-xl shadow-christi-300/40 py-3 px-8 rounded-full hover:bg-christi-700 transition-colors font-medium"
 		>
-			Give Now
-		</a>
-		<a
-			href="/"
-			class="w-full lg:w-1/2 flex ring-1 items-center justify-center rounded-full py-2 px-4 text-sm focus:outline-none ring-christi-200 text-slate-700 hover:text-slate-900 hover:ring-christi-300 active:bg-christi-100 active:text-slate-600 focus-visible:outline-christi-600 focus-visible:ring-slate-300"
-		>
-			Sign up for more info
+			Schedule a Call Today
 		</a>
 	</div>
 </div>
