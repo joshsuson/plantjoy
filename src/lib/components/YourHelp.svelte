@@ -123,10 +123,18 @@
 			</div>
 		</div>
 	</div>
-	<a
-		href="https://www.plantjoy.org/#givingflow"
-		class="mx-auto max-w-md my-24 flex items-center justify-center rounded-full py-2 px-4 text-sm focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 shadow-xl shadow-christi-300/40 bg-christi-600 text-white hover:bg-christi-400 hover:text-slate-50 active:bg-christi-500 active:text-slate-100 focus-visible:outline-christi-600"
-	>
-		Give Now
-	</a>
+	<div class="flex flex-col lg:flex-row justify-center gap-y-6 lg:gap-y-0 gap-x-6 items-center max-w-2xl mx-auto my-24">
+		<a
+			href="https://www.plantjoy.org/#givingflow"
+			class="w-full lg:w-1/2 flex items-center justify-center rounded-full py-2 px-4 text-sm focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 shadow-xl shadow-christi-300/40 bg-christi-600 text-white hover:bg-christi-400 hover:text-slate-50 active:bg-christi-500 active:text-slate-100 focus-visible:outline-christi-600"
+		>
+			Give Now
+		</a>
+		<a
+			href="mailto:plantjoyministries@gmail.com?subject=Newsletter Signup&body=Hi Plant Joy,%0D%0A%0D%0AI would like to join your newsletter to receive updates and prayer requests.%0D%0A%0D%0AName:%0D%0AEmail:"
+			class="w-full lg:w-1/2 flex ring-1 items-center justify-center rounded-full py-2 px-4 text-sm focus:outline-none ring-christi-200 text-slate-700 hover:text-slate-900 hover:ring-christi-300 active:bg-christi-100 active:text-slate-600 focus-visible:outline-christi-600 focus-visible:ring-slate-300"
+		>
+			Join Newsletter
+		</a>
+	</div>
 </div>
