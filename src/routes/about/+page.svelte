@@ -6,6 +6,6 @@
 	<title>About - PlantJoy</title>
 </svelte:head>
 
-<main>
+<main class="min-h-screen flex flex-col">
 	<Stephen />
 </main>
