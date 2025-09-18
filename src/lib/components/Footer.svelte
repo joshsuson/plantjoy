@@ -4,8 +4,22 @@
 	import FaTwitterSquare from 'svelte-icons/fa/FaTwitterSquare.svelte';
 </script>
 
-<div class="px-12 pt-10">
-	<img src={logo} alt="Plantjoy" class="mx-auto h-10 w-auto mb-6" />
+<div class="px-12 pt-20">
+	<img src={logo} alt="Plantjoy" class="mx-auto h-10 w-auto mb-8" />
+	<nav class="flex justify-center gap-8 mb-12">
+		<a href="/" class="text-slate-600 hover:text-christi-600 transition-colors font-medium">
+			Home
+		</a>
+		<a href="/about" class="text-slate-600 hover:text-christi-600 transition-colors font-medium">
+			About
+		</a>
+		<a href="/support-us" class="text-slate-600 hover:text-christi-600 transition-colors font-medium">
+			Support Us
+		</a>
+		<a href="/start-here" class="text-slate-600 hover:text-christi-600 transition-colors font-medium">
+			Start Here
+		</a>
+	</nav>
 	<div
 		class="flex flex-col items-center border-t border-slate-400/10 py-10 sm:flex-row-reverse sm:justify-between"
 	>
