@@ -9,9 +9,3 @@
 <TheNeed />
 <YourHelp />
 <Stephen />
-
-<style lang="postcss">
-	:global(body) {
-		@apply font-lexend;
-	}
-</style>

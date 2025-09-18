@@ -1,3 +1,20 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --font-lexend: "Lexend", cursive;
+  
+  --color-christi-50: #f7fee7;
+  --color-christi-100: #ebfdca;
+  --color-christi-200: #d7fa9c;
+  --color-christi-300: #bbf462;
+  --color-christi-400: #9fe833;
+  --color-christi-500: #80ce14;
+  --color-christi-600: #60a10b;
+  --color-christi-700: #4b7d0e;
+  --color-christi-800: #3d6311;
+  --color-christi-900: #355413;
+}
+
+body {
+  font-family: theme(--font-lexend);
+}

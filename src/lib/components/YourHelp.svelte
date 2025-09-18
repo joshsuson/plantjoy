@@ -93,7 +93,7 @@
 		<div class="bg-white rounded-lg p-4">
 			<div class="grid grid-cols-5 gap-2 mb-2">
 				<div class="text-right uppercase text-xs lg:text-sm text-slate-600">Monthly Amount</div>
-				<div class="col-span-2 lg:col-span-3" />
+				<div class="col-span-2 lg:col-span-3"></div>
 				<div class="uppercase col-span-2 text-xs text-right lg:text-sm text-slate-600">
 					Amount of partners needed
 				</div>
@@ -101,7 +101,7 @@
 			<div class="grid grid-cols-5 gap-2 gap-y-4 pb-4">
 				{#each neededCommitments as commitment, i}
 					<div class="col-span-1 text-lg text-right items-end">${commitment.monthlyAmount}</div>
-					<div class="col-span-3 w-full border-b-2 border-christi-300" />
+					<div class="col-span-3 w-full border-b-2 border-christi-300"></div>
 					<div class="col-span-1 text-lg flex gap-1">
 						<span>{commitment.partnerAmount}</span>
 						<span class="flex items-center">
